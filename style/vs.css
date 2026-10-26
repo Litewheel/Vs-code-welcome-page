@@ -182,13 +182,21 @@ footer span {
    padding: 4px 20px;
    
 }
+footer span:hover{
+    cursor: pointer;
+    color: #ffffffc2;
+}
 .footer{
     display: flex;
     margin-right: auto;
     color: rgba(255, 255, 255, 0.51);
     align-items: center;
-    width: 50px;
+    width: 400px;
     flex-wrap: nowrap;
     
+}
+.footer i{
+    color: #ffffff3a;
+   
 }
 
